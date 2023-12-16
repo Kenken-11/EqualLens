@@ -1,0 +1,56 @@
+body {
+    background-color: #f7f7f7;
+    text-align: center;
+}
+.side {
+    float: center;
+    width: 25%;
+    box-sizing: border-box;
+    display: inline-block;
+    font-size: 25px;
+    margin-bottom: 15px;
+}   
+.head {
+    font-size: 15px;
+    background-color: rgb(195, 227, 255);
+    padding: 15px;
+    text-align: center;
+    font-family: system-ui;
+}
+li {
+    margin-bottom: 5px;
+    font-size: 15px;
+    line-height: 1.6;
+}
+ol, ul {
+    margin: 15px;
+    margin-bottom: 45px;
+    padding-left: 15px;
+}
+.head2 {
+    text-align: left;
+}
+h2 {
+    clear: both;
+    text-align: center;
+    color: #4CAF50;
+    font-family: system-ui;
+}
+.myths-facts {
+    text-align: left;
+}
+.navigation {
+    text-align: center;
+    margin-top: 10px;
+}
+.navigation a {
+    display: inline-block;
+    padding: 2.5px 5px;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 2.5px;
+}
+.navigation a:hover {
+    background-color: #555;
+}
