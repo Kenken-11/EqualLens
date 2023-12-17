@@ -12,7 +12,7 @@ body {
 }   
 .head {
     font-size: 15px;
-    background-color: rgb(195, 227, 255);
+    background-color: #4CAF50;
     padding: 15px;
     text-align: center;
     font-family: system-ui;
@@ -39,18 +39,9 @@ h2 {
 .myths-facts {
     text-align: left;
 }
-.navigation {
-    text-align: center;
-    margin-top: 10px;
-}
-.navigation a {
-    display: inline-block;
-    padding: 2.5px 5px;
-    background-color: #333;
-    color: #fff;
-    text-decoration: none;
-    border-radius: 2.5px;
-}
-.navigation a:hover {
-    background-color: #555;
+button {
+    background-color: #B4B4B4;
+    border: inset;
+    color: blue;
+    border-color: #B4B4B4;
 }
